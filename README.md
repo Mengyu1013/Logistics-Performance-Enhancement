@@ -1,4 +1,4 @@
-# Unlocking Customer Behavior Analysis: Hypothesis Testing and Predictive Modeling
+# Logistics Performance Enhancement: Hypothesis Testing and Predictive Modeling
 This project investigates key factors influencing customer behavior and feedback in a retail environment. Using a combination of hypothesis testing, statistical analysis, and machine learning models, we analyzed the impact of demographics, purchasing behavior, and shipping methods on customer satisfaction. The project includes:
 
 Key Objectives:
